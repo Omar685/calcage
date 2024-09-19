@@ -39,7 +39,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
 const images = ['https://aicontentfy.com/hubfs/Blog/e2f82ed6-4180-4648-9560-949a48793661.jpg', 
   'https://c4.wallpaperflare.com/wallpaper/9/519/764/mountains-best-for-desktop-background-wallpaper-preview.jpg', 
-  "https://t3.ftcdn.net/jpg/06/84/59/22/360_F_684592278_xAceXmIN3m7d3AKj52NDAOuXaeRvEJVC.jpg",
   'https://img.freepik.com/premium-photo/background-beautiful-wallpaper-hd-best-quality-hyper-realistic-colorful-image_1078161-2011217.jpg', 
   'https://www.lifewire.com/thmb/CLI14Ku63Uujk5VlROmhN67G-3I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/wallhaven-5919d60a5f9b58f4c04e8b26.png',
   'https://t4.ftcdn.net/jpg/06/85/28/11/360_F_685281180_18UBRHmJJO7X6yDStWETCOBKAWVHFHQn.jpg',
